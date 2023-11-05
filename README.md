@@ -9,4 +9,4 @@ Our solution is live. To use it, you can simply connect to ```https://near.socia
 
 If you want to publish your own alerts, you can do it on this page ```https://near.social/embed/dd1e4dc79092f25987af6d882fe6a33acca7d672245e13e99243c17745d08fa0/widget/mintpage```. You can enter your address, the title of your post, a text and an image, and it will mint to your address the NFT associated to your post, before displaying it in the feed of all the posts.
 
-!! Important !! The minting contract is deployed on the Goerli TestNet, so in order to mint your post, you will need Goerli to pay for the gas fee.
+!! Important !! The minting contract is deployed on the Goerli TestNet, so in order to mint your post, you will need Goerli to pay for the gas fees.
