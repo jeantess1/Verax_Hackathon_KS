@@ -1,7 +1,9 @@
 # Verax_Hackathon_KS
 Verax is a blockchain project on the BOS (Near) platform, created during the KRYPTOSPHERE hackathon. Its aim is to provide a decentralized platform for the disclosure of confidential documents, protecting the identities of whistleblowers while ensuring transparency. 
 
-Users can create their own Alerts, that will appear as a feed on our site. Their alert will be an NFT linked to their wallet. The site has two pages, a feed page that displays all the alerts, and a minting page that allows the creation of the alerts.
+Users can create their own Alerts, that will appear as a feed on our site. Their alert will be an NFT linked to their wallet. The site has two pages, a feed page that displays all the alerts, and a minting page that allows the creation of the alerts.7
+
+The code of the contract is provided in this repo, and the frontend of the site is fully deployed on BOS, by the user ```dd1e4dc79092f25987af6d882fe6a33acca7d672245e13e99243c17745d08fa0```.
 
 Our solution is live. To use it, you can simply connect to ```https://near.social/embed/dd1e4dc79092f25987af6d882fe6a33acca7d672245e13e99243c17745d08fa0/widget/Verax``` to connect to the landing page, where all our alerts are displayed.
 
